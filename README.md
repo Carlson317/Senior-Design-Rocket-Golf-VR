@@ -27,9 +27,9 @@ Before you turn in a project, be sure to modify this file!  It should have:
 
 ForeGuys Studios
 
-Caleb Carlson
-Brandon Neff
-Nathan Spaulding
+Caleb Carlson,
+Brandon Neff,
+Nathan Spaulding,
 Cameron Leach
 
 Rocket Golf VR
@@ -37,11 +37,11 @@ Rocket Golf VR
 Project Description:
 Our idea was to make a game for google cardboard. In our group meeting we named this game “Rocket Golf”, based off of the game rocket league if you have heard of it. The overall premise of the game would be that you would use a car to play a game of golf. To make this idea more interesting we wanted to make this game using google cardboard and use an engine like unity or unreal 4 so we could incorporate VR into our project and then also make use of some type of android game controller so a player could be “immersed” into the world and control their car with a gamepad. Ideally we broke our project down into 3 sections varying in difficult so we could adjust what the final product looked like based on how far we progressed. It broke down as follows:
 
-1.       A fully working game running in google cardboard using some type of controller as our input device
+1 A fully working game running in google cardboard using some type of controller as our input device
 
-2.       Multiplayer support so that two people with android phones could play against each other in real time or maybe turn based
+2 Multiplayer support so that two people with android phones could play against each other in real time or maybe turn based
 
-3.       Leaderboards, achievements, etc to make the app feel even more polished
+3 Leaderboards, achievements, etc to make the app feel even more polished
 
  
 [1]: http://alistair.cockburn.us/Basic+use+case+template "Alistair Cockburn on Use Cases"
