@@ -1,4 +1,4 @@
-Project Boiler Plate for UWyo COSC 4950/5
+Rocket Golf VR for UWyo COSC 4950/5
 =========================================
 
 This is nothing more than a directory structure to use for starting a new project.  
@@ -27,21 +27,19 @@ Before you turn in a project, be sure to modify this file!  It should have:
 
 * The name of your group, e.g., *Programming Nirvana*, but hopefully cooler
 
-* The names of your group members (in the order, spelling, etc., that you wish to see 
-  in the official notices of this class, e.g., in the invitations to the final presentations)
+Caleb Carlson
+Brandon Neff
+Nathan Spaulding
+Cameron Leach
 
-* The name of your project
+Rocket Golf VR
 
-* A brief description (paragraph or two) of your project
+Project Description:
+Our idea was to make a game for google cardboard. In our group meeting we named this game “Rocket Golf”, based off of the game rocket league if you have heard of it. The overall premise of the game would be that you would use a car to play a game of golf. To make this idea more interesting we wanted to make this game using google cardboard and use an engine like unity or unreal 4 so we could incorporate VR into our project and then also make use of some type of android game controller so a player could be “immersed” into the world and control their car with a gamepad. Ideally we broke our project down into 3 sections varying in difficult so we could adjust what the final product looked like based on how far we progressed. It broke down as follows:
+1.       A fully working game running in google cardboard using some type of controller as our input device
+2.       Multiplayer support so that two people with android phones could play against each other in real time or maybe turn based
+3.       Leaderboards, achievements, etc to make the app feel even more polished
 
-Of course, those elements can change, but warn me of any substantive changes after I
-approve an earlier version.
-
-This file should also give me a good description of the files and folders that you want 
-me to look for grading purposes.  For example, if your code is in Java, you may describe 
-the most important Java packages and the order in which I should view them to understand 
-your code.  I will probably take a look at everything that is in the repository, but your
-guidance will make it easier for me to navigate the project.
-  
+ 
 [1]: http://alistair.cockburn.us/Basic+use+case+template "Alistair Cockburn on Use Cases"
 [2]: http://daringfireball.net/projects/markdown/ "Markdown Documentation"
