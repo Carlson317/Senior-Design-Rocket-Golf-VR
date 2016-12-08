@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{68311C22-49B6-D776-5C83-119C20FBEF68}") = "RocketGolfFinal", "Assembly-CSharp-firstpass.csproj", "{EF9A5C41-C9AD-5B65-F1F7-A634B1DCF053}"
+EndProject
+Project("{68311C22-49B6-D776-5C83-119C20FBEF68}") = "RocketGolfFinal", "Assembly-CSharp.csproj", "{D5BB2A33-EBBC-B495-71F9-1D32D7BB612C}"
+EndProject
+Project("{68311C22-49B6-D776-5C83-119C20FBEF68}") = "RocketGolfFinal", "Assembly-CSharp-Editor.csproj", "{7D161D88-3708-E7FE-BB60-F156A79D5712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9A5C41-C9AD-5B65-F1F7-A634B1DCF053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9A5C41-C9AD-5B65-F1F7-A634B1DCF053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9A5C41-C9AD-5B65-F1F7-A634B1DCF053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9A5C41-C9AD-5B65-F1F7-A634B1DCF053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BB2A33-EBBC-B495-71F9-1D32D7BB612C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BB2A33-EBBC-B495-71F9-1D32D7BB612C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BB2A33-EBBC-B495-71F9-1D32D7BB612C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BB2A33-EBBC-B495-71F9-1D32D7BB612C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D161D88-3708-E7FE-BB60-F156A79D5712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D161D88-3708-E7FE-BB60-F156A79D5712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D161D88-3708-E7FE-BB60-F156A79D5712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D161D88-3708-E7FE-BB60-F156A79D5712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
